@@ -6,11 +6,12 @@
 .block{
     height: 100px;
     width: 100px;
-    margin:0px auto;
+    margin:2px auto;
     padding:10px 10px 10px 10px;
     background-color: red;
     border-color: blue;
     border-style: dashed;
+    float:left;
 }
 .html,body{
     margin:0;
