@@ -21,6 +21,7 @@ html{
     background-color: red;
     border-color: blue;
     border-style: dashed;
+    transition: 2s 0s all;
 }
 .boxtop{
     height: 40px;
@@ -33,6 +34,9 @@ html{
     text-align: center;
     line-height: 40px;
     cursor: pointer;
+}
+.trans{
+    height: 500px;
 }
 .a{
     font-size: 20px;
