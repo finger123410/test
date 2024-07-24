@@ -1,11 +1,12 @@
 html{
     height: 1699.330px;
-    width: 372px;
+    width: 1684px;
 }
 
 .html,body{
     margin:0;
-    padding:0;
+    padding-top: 69.750px;
+    height: 1644.59px;
 }
 
 .block_top{
@@ -224,12 +225,11 @@ html{
 }
 
 .module_1{
-    width:1110px ;
+    width:auto ;
     height:454.104px ;
     padding:0px 15px 0px 15px ;
     margin-left:272px ;
     margin-right:272px ;
-    position: relative;
     top: 69.75px;
 }
 
@@ -285,3 +285,18 @@ html{
     box-sizing: inherit;
     fill: #e8f3ec !important;
 }
+
+.module_1_1_right{
+    background-size: cover;
+    display: block !important;
+    flex: 0 0 50%;
+    max-width: 50%;
+    position: absolute;
+    top: 0px;
+    right: -16px;
+    width: 100%;
+    min-height: 1px;
+    padding-left: 15px;
+}
+
+
