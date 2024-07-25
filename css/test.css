@@ -310,6 +310,59 @@ html{
     position: relative;
 }
 
+.module_2_1{
+    width: 1140px ;
+    height: 324px; ;
+    margin: 0px -15px;
+    position: absolute;
+}
+
+.module_2_1_left{
+    width: 540px;
+    height: 324px;
+    padding: 0px 15px;
+    position: absolute;
+}
+
+.module_2_1_left_1{
+    width: 540px ;
+    height: 300px;
+    margin-bottom:  24px ;
+    position: absolute;
+}
+
+.module_2_1_left_1_top{
+    width: 540px ;
+    height: 128.667px ;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 768px) {
     .block_top_inside {
          width: 100%;
