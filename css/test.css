@@ -195,6 +195,7 @@ html{
     font-family: "Source Sans Pro", "Segoe UI", "Helvetica Neue", "Arial";
     position: absolute;
     top:17px;
+    left: 80px;
 }
 
 .block_top_11{
@@ -897,12 +898,268 @@ html{
 }
 
 .module_3_1_right_1{
+    width: 340.99px;
+    height: 43.667px;
+    border-bottom: 0.667px;
+    margin-bottom: 32px;
+    margin-top: 0px;
     border-bottom: 1px solid #e8f3ec;
     margin-bottom: 2rem;
     font-weight: 700 !important;
     font-size: 1.25rem;
     line-height: 1.2;
+    position: absolute;
 }
+
+.module_3_1_right_2{
+    width: 340.99px;
+    height: 331.4px;
+    padding-left: 0px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    position: absolute;
+    top: 75.667px;
+}
+
+.module_3_1_right_2_1{
+    width: 340.99px;
+    height: 82.875px;
+    position: absolute;
+    list-style-type: none;
+}
+
+.module_3_1_right_2_1::before{
+    content: "01" ;
+    font-weight: bold;
+    font-size: 3rem;
+    margin-right: 0.5rem;
+    font-family: 'Abril Fatface', serif;
+    line-height: 1;
+}
+
+.module_3_1_right_2_1_1{
+    width: 283.115px;
+    height: 82.875px;
+    position: absolute;
+}
+
+.module_3_1_right_2_1_1_1{
+    width: 283.115px;
+    height: 38.396px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    display: block;
+    font-size: 0.67em;
+    font-weight: bold;
+}
+
+.module_3_1_right_2_1_1_1_1{
+    color: #212529;
+    transition: all .2s;
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: 700 !important;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+.module_3_1_right_2_1_1_1_1:hover{
+    color: #03a87c;
+}
+
+.module_3_1_right_2_1_1_2{
+    width: 283.225px;
+    height: 20.479px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    color: #6c757d !important;
+    font-size: 0.8rem;
+    font-family: "Source Sans Pro", "Segoe UI", "Helvetica Neue", "Arial";
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+.module_3_1_right_2_2{
+    width: 340.99px;
+    height: 82.875px;
+    position: absolute;
+    top: 82.875px;
+    list-style-type: none;
+}
+
+.module_3_1_right_2_2::before{
+    content: "02" ;
+    font-weight: bold;
+    font-size: 3rem;
+    margin-right: 0.5rem;
+    font-family: 'Abril Fatface', serif;
+    line-height: 1;
+}
+
+.module_3_1_right_2_2_1{
+    width: 283.115px;
+    height: 82.875px;
+    position: absolute;
+}
+
+.module_3_1_right_2_2_1_1{
+    width: 283.115px;
+    height: 38.396px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    display: block;
+    font-size: 0.67em;
+    font-weight: bold;
+}
+
+.module_3_1_right_2_2_1_1_1{
+    color: #212529;
+    transition: all .2s;
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: 700 !important;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+.module_3_1_right_2_2_1_1_1:hover{
+    color: #03a87c;
+}
+
+.module_3_1_right_2_2_1_2{
+    width: 283.225px;
+    height: 20.479px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    color: #6c757d !important;
+    font-size: 0.8rem;
+    font-family: "Source Sans Pro", "Segoe UI", "Helvetica Neue", "Arial";
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+.module_3_1_right_2_3{
+    width: 340.99px;
+    height: 82.875px;
+    position: absolute;
+    top: 165.75px;
+    list-style-type: none;
+}
+
+.module_3_1_right_2_3::before{
+    content: "03" ;
+    font-weight: bold;
+    font-size: 3rem;
+    margin-right: 0.5rem;
+    font-family: 'Abril Fatface', serif;
+    line-height: 1;
+}
+
+.module_3_1_right_2_3_1{
+    width: 283.115px;
+    height: 82.875px;
+    position: absolute;
+}
+
+.module_3_1_right_2_3_1_1{
+    width: 283.115px;
+    height: 38.396px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    display: block;
+    font-size: 0.67em;
+    font-weight: bold;
+}
+
+.module_3_1_right_2_3_1_1_1{
+    color: #212529;
+    transition: all .2s;
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: 700 !important;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+.module_3_1_right_2_3_1_1_1:hover{
+    color: #03a87c;
+}
+
+.module_3_1_right_2_3_1_2{
+    width: 283.225px;
+    height: 20.479px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    color: #6c757d !important;
+    font-size: 0.8rem;
+    font-family: "Source Sans Pro", "Segoe UI", "Helvetica Neue", "Arial";
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+.module_3_1_right_2_4{
+    width: 340.99px;
+    height: 82.875px;
+    position: absolute;
+    top: 248.625px;
+    list-style-type: none;
+}
+
+.module_3_1_right_2_4::before{
+    content: "04" ;
+    font-weight: bold;
+    font-size: 3rem;
+    margin-right: 0.5rem;
+    font-family: 'Abril Fatface', serif;
+    line-height: 1;
+}
+
+.module_3_1_right_2_4_1{
+    width: 283.115px;
+    height: 82.875px;
+    position: absolute;
+}
+
+.module_3_1_right_2_4_1_1{
+    width: 283.115px;
+    height: 38.396px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    display: block;
+    font-size: 0.67em;
+    font-weight: bold;
+}
+
+.module_3_1_right_2_4_1_1_1{
+    color: #212529;
+    transition: all .2s;
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: 700 !important;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+.module_3_1_right_2_4_1_1_1:hover{
+    color: #03a87c;
+}
+
+.module_3_1_right_2_4_1_2{
+    width: 283.225px;
+    height: 20.479px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    color: #6c757d !important;
+    font-size: 0.8rem;
+    font-family: "Source Sans Pro", "Segoe UI", "Helvetica Neue", "Arial";
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+
+
+
+
 
 
 
